@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm literally <a href="https://www.github.com/Sonselin">Maxim</a>!</h1>
+<h1 align="center">Hi, I'm literally <a href="https://www.github.com/kineticful">Maxim</a>!</h1>
 
 <p align="center">
-  <a href="https://github.com/SonseLin"><img src="https://github-readme-stats.vercel.app/api?username=SonseLin&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Sonselin's github stats"></a>
+  <a href="https://github.com/kineticful"><img src="https://github-readme-stats.vercel.app/api?username=kineticful&hide_border=true&show_icons=true&theme=merko&rank_icon=github" alt="Kinetic's github stats"></a>
   
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 <h1 align="center">
   Also you can find out my 
-  <a href="https://github.com/SonseLin/Sber_CPP_Projects">CPP</a> 
+  <a href="https://github.com/kineticful/Sber_CPP_Projects">CPP</a> 
   and 
-  <a href="https://github.com/SonseLin/Sber_ML_Projects">DS/ML</a> 
+  <a href="https://github.com/kineticful/Sber_ML_Projects">DS/ML</a> 
   projects belong to Sber 21<br>
   (ex Ecole 42, rebranded for CIS zone)
 </h1>
